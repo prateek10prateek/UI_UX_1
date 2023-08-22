@@ -1,0 +1,15 @@
+.pin {
+  height: 90px;
+  left: 106px;
+  position: relative;
+  top: 361px;
+  width: 86px;
+}
+
+.pin .subtract {
+  height: 62px;
+  left: 17px;
+  position: absolute;
+  top: 14px;
+  width: 52px;
+}

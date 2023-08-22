@@ -1,0 +1,1 @@
+export { InstagramNegative } from "./InstagramNegative";
